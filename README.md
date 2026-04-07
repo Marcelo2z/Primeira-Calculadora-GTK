@@ -16,7 +16,7 @@ Projeto de uma calculadora gráfica desenvolvida em C++ utilizando a biblioteca 
 
 ## Interface
 
-> (adicione aqui um print do programa rodando)
+> 
 
 ## Tecnologias utilizadas
 
