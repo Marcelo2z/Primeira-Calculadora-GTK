@@ -14,7 +14,7 @@ Projeto de uma calculadora gráfica desenvolvida em C++ utilizando a biblioteca 
 - Exibição do número atual no display
 - Exibição da operação atual em um label separado
 
-## 🖼️ Interface
+## Interface
 
 > (adicione aqui um print do programa rodando)
 
